@@ -19,6 +19,8 @@
     "@colyseus/loadtest": "^0.11.0"
   },
   "dependencies": {
+    "@angular/core": "^15.1.0",
+    "@angular/platform-browser-dynamic": "^15.1.0",
     "@colyseus/monitor": "^0.11.0",
     "@colyseus/social": "^0.10.2",
     "colyseus": "^0.11.0",
